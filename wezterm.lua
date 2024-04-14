@@ -232,7 +232,7 @@ mouse_bindings = {
 		mods = "NONE",
 	},
 }
-
+config.window_background_opacity = 0.2
 --- Default config settings
 config.scrollback_lines = 7000
 config.hyperlink_rules = wezterm.default_hyperlink_rules()
