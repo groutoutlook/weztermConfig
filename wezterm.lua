@@ -232,6 +232,7 @@ mouse_bindings = {
 		mods = "NONE",
 	},
 }
+config.window_decorations = "NONE"
 config.window_background_opacity = 0.2
 --- Default config settings
 config.scrollback_lines = 7000
